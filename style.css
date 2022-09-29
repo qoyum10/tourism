@@ -194,12 +194,9 @@ p{
     width: 100%;
     height: 70vh;
     display: flex;
-
     align-items: flex-end;
     justify-content: left;
     padding-bottom: 100px;
-    
-    
 }
 .explore-content{
     color: whitesmoke;
